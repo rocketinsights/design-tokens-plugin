@@ -23,8 +23,7 @@ export const color = () => {
         (obj, item) => ({
           ...obj,
           [item.name]: {
-            hex: item.color.slice(0, -2),
-            rgba: item.rgba,
+            value: item.color.slice(0, -2),
             type: "color"
           }
         }),
