@@ -1,0 +1,40 @@
+{
+    "color": {
+        "yellow-100": {
+            "value": "#ffd59e",
+            "type": "color"
+        },
+        "yellow-200": {
+            "value": "#ffc270",
+            "type": "color"
+        },
+        "yellow-300": {
+            "value": "#ffae42",
+            "type": "color"
+        },
+        "secondary": {
+            "value": "#ff9a14",
+            "type": "color"
+        },
+        "button-background": {
+            "value": "#e58300",
+            "type": "color"
+        },
+        "button-background-hover": {
+            "value": "#ffc270",
+            "type": "color"
+        },
+        "button-title-hover": {
+            "value": "#d8d8d8",
+            "type": "color"
+        },
+        "button-title": {
+            "value": "#282828",
+            "type": "color"
+        },
+        "primary": {
+            "value": "#e58300",
+            "type": "color"
+        }
+    }
+}
