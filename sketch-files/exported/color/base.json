@@ -24,11 +24,11 @@
             "value": "#ffc270",
             "type": "color"
         },
-        "button-title-hover": {
+        "button-title": {
             "value": "#d8d8d8",
             "type": "color"
         },
-        "button-title": {
+        "button-title-hover": {
             "value": "#282828",
             "type": "color"
         },
