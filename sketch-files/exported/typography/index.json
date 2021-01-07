@@ -2,7 +2,7 @@
     "font": {
         "body": {
             "font-family": {
-                "value": "Futura"
+                "value": "Courier"
             },
             "font-size": {
                 "value": 12
@@ -18,7 +18,7 @@
         },
         "body-light": {
             "font-family": {
-                "value": "Menlo"
+                "value": "Chalkduster"
             },
             "font-size": {
                 "value": 12
@@ -82,7 +82,7 @@
         },
         "button-title": {
             "font-family": {
-                "value": "Futura"
+                "value": "Courier"
             },
             "font-size": {
                 "value": 12
@@ -98,7 +98,7 @@
         },
         "button-title-hover": {
             "font-family": {
-                "value": "Menlo"
+                "value": "Chalkduster"
             },
             "font-size": {
                 "value": 12

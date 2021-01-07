@@ -1,39 +1,39 @@
 {
     "color": {
         "yellow-100": {
-            "value": "#6dd400",
+            "value": "#ffd59e",
             "type": "color"
         },
         "yellow-200": {
-            "value": "#44d7b6",
+            "value": "#ffc270",
             "type": "color"
         },
         "yellow-300": {
-            "value": "#32c5ff",
+            "value": "#ffae42",
             "type": "color"
         },
         "secondary": {
-            "value": "#0091ff",
+            "value": "#ff9a14",
             "type": "color"
         },
         "button-background": {
-            "value": "#6236ff",
+            "value": "#e58300",
             "type": "color"
         },
         "button-background-hover": {
-            "value": "#44d7b6",
+            "value": "#ffc270",
             "type": "color"
         },
         "button-title": {
-            "value": "#44d7b6",
+            "value": "#d8d8d8",
             "type": "color"
         },
         "button-title-hover": {
-            "value": "#0091ff",
+            "value": "#282828",
             "type": "color"
         },
         "primary": {
-            "value": "#6236ff",
+            "value": "#e58300",
             "type": "color"
         }
     }
