@@ -58,7 +58,7 @@ export const typography = () => {
     // Gives the name of the category
     jsonData.typography = arrayToObject(getTypography);
     const rawData = fromPairs(Object.entries(jsonData.typography));
-    const typographyData = JSON.stringify({ typography: rawData }, null, 4);
+    const typographyData = JSON.stringify({ font: rawData }, null, 4);
     return typographyData;
   }
 };
